@@ -13,7 +13,7 @@
       "url": "https://opensource.org/licenses/MIT"
     }
   },
-  "host": "app.chatwoot.com",
+  "host": "chatwoot.iprrossoni.net",
   "basePath": "/",
   "schemes": [
     "https"
